@@ -178,8 +178,8 @@ style "button" {
 # The color is changed by the notebook_bg style, this style
 # changes the x/ythickness
 style "notebook" {
-	xthickness = 3
-	ythickness = 3
+	xthickness = 0
+	ythickness = 0
 }
 
 style "statusbar" {
